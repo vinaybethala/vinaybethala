@@ -1,7 +1,7 @@
 # Hi, I'm Vinay 👋
 
 🎓 B.Tech CSE (AI & ML) Student  
-💻 Python | Java | Machine Learning | Backend Development  
+💻 Python | Java | Machine Learning | Web Development  
 🚀 Building real-world, problem-driven software products  
 
 ## 🛠️ Skills
