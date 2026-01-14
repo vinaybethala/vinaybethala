@@ -2,7 +2,10 @@
 
 🎓 B.Tech CSE (AI & ML) Student  
 💻 Python | Java | Machine Learning | Web Development  
-🚀 Building real-world, problem-driven software products  
+🚀 focused on building **full-stack, AI-backed systems** that solve real problems.
+
+I work across backend, web, and mobile to turn ideas into usable products.
+
 
 ## 🛠️ Skills
 - Programming: Python, Java
