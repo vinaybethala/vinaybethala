@@ -1,29 +1,62 @@
-# Hi, I'm Vinay 👋
+# 👋 Hi, I’m Vinay
 
-🎓 B.Tech CSE (AI & ML) Student  
- AI Engineer & Backend Engineer
- Building scalable AI-powered backend systems using Python, FastAPI, PostgreSQL, and LLMs.
+## AI Engineer | Backend Engineer
 
-I work across backend, web, and mobile to turn ideas into usable products.
+I build **production-ready AI-powered backend systems**, focused on solving real-world problems with clean architecture and scalable design.
 
+My work combines **Applied AI** and **Backend Engineering**—from designing APIs to integrating ML/LLMs and deploying systems that actually run in production.
 
-## 🛠️ Skills
-- Programming: Python, Java
-- DSA: Arrays, Strings, Searching, Sorting (Python & Java)
-- Machine Learning: NumPy, Pandas, Scikit-learn (foundations)
-- Backend & UI: Flask, Streamlit
-- Tools: Git, GitHub, Efficient AI Tools (LLMs, APIs)
+---
+
+## 🔧 What I Do
+
+- Build RESTful backend services using **Python & FastAPI**
+- Integrate **AI/ML models and LLMs** into backend systems
+- Design secure systems with **authentication & role-based access**
+- Work with **real data**, real users, and real constraints
+- Deploy AI services using **Docker and cloud platforms**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Backend**
+- FastAPI
+- REST APIs
+- JWT Authentication
+- PostgreSQL
+
+**AI / ML**
+- NumPy
+- Pandas
+- Scikit-learn
+- Hugging Face
+- LLM APIs (Applied)
+
+**Dev & Deployment**
+- Docker
+- Git & GitHub
+- Cloud basics (AWS)
+
+---
+
+## 📌 Current Focus
+
+- Building **end-to-end AI backend projects**
+- Strengthening **API design & system architecture**
+- Applying AI to **real-world use cases**
+
 
 ## 📌 Featured Projects
 - **MentorLog** – Tutor & student activity tracking platform  
 - **EduEarn** – Skill-based learning & earning platform  
 - **ApplyZen** – AI-powered job application assistant  
 
-## 📈 Currently Working On
-- Strengthening core DSA & problem-solving
-- Building scalable AI-backed applications
-- Improving code quality and system design
-
+---
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/vinay-bethala
 - Email: vinaybethala9@gmail.com
