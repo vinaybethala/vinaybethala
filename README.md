@@ -1,8 +1,8 @@
 # Hi, I'm Vinay 👋
 
 🎓 B.Tech CSE (AI & ML) Student  
-💻 Python | Java | Machine Learning | Web Development  
-🚀 focused on building **full-stack, AI-backed systems** that solve real problems.
+ AI Engineer & Backend Engineer
+ Building scalable AI-powered backend systems using Python, FastAPI, PostgreSQL, and LLMs.
 
 I work across backend, web, and mobile to turn ideas into usable products.
 
