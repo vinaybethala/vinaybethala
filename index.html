@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bethala Vinay | AI Engineer & Backend Engineer</title>
+    <meta name="description"
+        content="Building production-ready AI-powered backend systems. Portfolio of Bethala Vinay, AI & Backend Engineer.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="#" class="logo">BV<span style="color:var(--accent-cyan)">.</span></a>
+            <div class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#experience" class="nav-link">Experience</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <canvas id="particles-js"></canvas>
+        <div class="container hero-content reveal">
+            <h1>Bethala Vinay</h1>
+            <h2><span class="gradient-text">AI Engineer & Backend Engineer</span></h2>
+            <p>Building production-ready AI-powered backend systems at scale. Focused on performance, reliability, and
+                real-world impact.</p>
+            <div class="hero-btns">
+                <a href="#projects" class="btn btn-primary">View Projects <i class="fas fa-arrow-right"></i></a>
+                <a href="Vinay-Bethala-Resume.pdf" download="Vinay-Bethala-Resume.pdf"
+                    class="btn btn-outline cta-resume">Download Resume <i class="fas fa-download"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="reveal">About Me</h2>
+            <div class="about-grid reveal">
+                <div class="about-text">
+                    <p>I design and deploy AI-driven backend systems that solve real-world problems. With deep expertise
+                        in applied AI, scalable APIs, and production deployments, I bridge the gap between complex
+                        machine learning models and reliable, user-facing applications.</p>
+                    <p>My work focuses on creating robust backend architectures using FastAPI and PostgreSQL, while
+                        integrating state-of-the-art LLMs and NLP pipelines.</p>
+                    <ul>
+                        <li>Production-grade REST APIs with JWT auth</li>
+                        <li>LLM integrations via Hugging Face & OpenAI</li>
+                        <li>Dockerized deployments for high availability</li>
+                        <li>Scalable database design with PostgreSQL</li>
+                    </ul>
+                </div>
+                <!-- Profile Image Placeholder -->
+                <div class="about-image" style="display:flex; justify-content:center;">
+                    <img src="https://ui-avatars.com/api/?name=Bethala+Vinay&background=1a1a2e&color=fff&size=400&font-size=0.33&rounded=true"
+                        alt="Bethala Vinay" loading="lazy"
+                        style="border-radius:50%; border: 4px solid var(--accent-blue); box-shadow: 0 0 30px rgba(15, 52, 96, 0.4); max-width: 300px;">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section">
+        <div class="container">
+            <h2 class="reveal">Technical Arsenal</h2>
+            <div class="skills-grid reveal">
+                <!-- Card 1 -->
+                <div class="skill-card">
+                    <div class="skill-icon"><i class="fas fa-code"></i></div>
+                    <h3>Programming</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">Java (DSA)</span>
+                        <span class="skill-tag">SQL</span>
+                        <span class="skill-tag">TypeScript</span>
+                    </div>
+                </div>
+                <!-- Card 2 -->
+                <div class="skill-card">
+                    <div class="skill-icon"><i class="fas fa-server"></i></div>
+                    <h3>Backend</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">FastAPI</span>
+                        <span class="skill-tag">REST APIs</span>
+                        <span class="skill-tag">JWT Auth</span>
+                        <span class="skill-tag">PostgreSQL</span>
+                        <span class="skill-tag">Redis</span>
+                    </div>
+                </div>
+                <!-- Card 3 -->
+                <div class="skill-card">
+                    <div class="skill-icon"><i class="fas fa-brain"></i></div>
+                    <h3>AI / ML</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Hugging Face</span>
+                        <span class="skill-tag">LLMs</span>
+                        <span class="skill-tag">NumPy</span>
+                        <span class="skill-tag">Pandas</span>
+                        <span class="skill-tag">Scikit-learn</span>
+                    </div>
+                </div>
+                <!-- Card 4 -->
+                <div class="skill-card">
+                    <div class="skill-icon"><i class="fas fa-tools"></i></div>
+                    <h3>DevOps & Tools</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Docker</span>
+                        <span class="skill-tag">Git / GitHub</span>
+                        <span class="skill-tag">AWS (S3, EC2)</span>
+                        <span class="skill-tag">CI/CD</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="reveal">Featured Work</h2>
+            <div class="projects-grid reveal">
+                <!-- Project 1: Mentorlog (Moved to First) -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3 class="project-title">Mentorlog – Mentor & Student Management System</h3>
+                        <div class="project-tech">
+                            <span class="tech-badge">FastAPI</span>
+                            <span class="tech-badge">PostgreSQL</span>
+                            <span class="tech-badge">JWT Auth</span>
+                            <span class="tech-badge">Docker</span>
+                        </div>
+                        <p class="project-desc">Full-stack CRM for mentorship programs with AI-powered matching
+                            algorithms and comprehensive student management tracking.</p>
+                        <div class="project-outcome">
+                            <i class="fas fa-check-circle" style="color:var(--accent-cyan); margin-right: 5px;"></i>
+                            Reduced matching time by 70%, scaled to 1k+ users.
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/vinaybethala/mentorlog" class="icon-link" target="_blank"
+                                rel="noopener noreferrer"><i class="fab fa-github"></i> Code</a>
+                            <a href="#" class="icon-link"><i class="fas fa-external-link-alt"></i> Live Demo</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 2: ApplyZen (New) -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3 class="project-title">ApplyZen – AI-Assisted Job Application Platform</h3>
+                        <div class="project-tech">
+                            <span class="tech-badge">FastAPI</span>
+                            <span class="tech-badge">Hugging Face</span>
+                            <span class="tech-badge">PostgreSQL</span>
+                            <span class="tech-badge">AWS S3</span>
+                        </div>
+                        <p class="project-desc">Intelligent job application assistant with AI resume optimization and
+                            application tracking features.</p>
+                        <div class="project-outcome">
+                            <i class="fas fa-check-circle" style="color:var(--accent-cyan); margin-right: 5px;"></i>
+                            Processed 5k+ applications, 92% ATS compatibility.
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/vinaybethala/ApplyZen" class="icon-link" target="_blank"
+                                rel="noopener noreferrer"><i class="fab fa-github"></i> Code</a>
+                            <a href="#" class="icon-link"><i class="fas fa-external-link-alt"></i> Live Demo</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 3: EduEarn (Moved & Updated) -->
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3 class="project-title">EduEarn – Learning & Earning Platform</h3>
+                        <div class="project-tech">
+                            <span class="tech-badge">FastAPI</span>
+                            <span class="tech-badge">Streamlit</span>
+                            <span class="tech-badge">PostgreSQL</span>
+                            <span class="tech-badge">Stripe</span>
+                        </div>
+                        <p class="project-desc">Gamified edtech platform with referral monetization and AI-driven
+                            content curation, featuring seamless payments.</p>
+                        <div class="project-outcome">
+                            <i class="fas fa-check-circle" style="color:var(--accent-cyan); margin-right: 5px;"></i>
+                            Onboarded 500+ users, $2k+ referral earnings generated.
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/vinaybethala/eduearn-learning-platform" class="icon-link"
+                                target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> Code</a>
+                            <a href="#" class="icon-link"><i class="fas fa-external-link-alt"></i> Live Demo</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section">
+        <div class="container">
+            <h2 class="reveal">Journey & Achievements</h2>
+            <div class="timeline reveal">
+                <div class="timeline-item">
+                    <div class="timeline-date">2025</div>
+                    <div class="timeline-title">National Level Hackathon – 2nd Prize</div>
+                    <div class="timeline-desc">Ematix Hackathon. Built an AI-driven accessibility tool.</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2023 - 2025</div>
+                    <div class="timeline-title">Multiple Hackathons & Buildathons</div>
+                    <div class="timeline-desc">Consistently placed in top tiers for AI and Backend tracks, delivering
+                        prototypes in under 24h.</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2023 - 2027</div>
+                    <div class="timeline-title">St. Peter's Engineering College – BTech, CGPA 9.67</div>
+                    <div class="timeline-desc">Consistently high academic performance.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2 class="reveal">Get In Touch</h2>
+            <div class="contact-container reveal">
+                <form class="contact-form" action="https://formspree.io/f/YOUR_ID_HERE" method="POST"
+                    onsubmit="event.preventDefault(); alert('This is a demo form. Integrate EmailJS or Formspree here.');">
+                    <div class="form-group">
+                        <label class="form-label">Name</label>
+                        <input type="text" class="form-input" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Email</label>
+                        <input type="email" class="form-input" placeholder="your@email.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Message</label>
+                        <textarea class="form-textarea" placeholder="Let's build something impactful..."
+                            required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send Message <i
+                            class="fas fa-paper-plane"></i></button>
+                </form>
+
+                <div class="contact-info" style="align-self: center;">
+                    <h3>Let's Collaborate</h3>
+                    <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your
+                        visions.</p>
+
+                    <div class="social-links">
+                        <a href="https://github.com/vinaybethala" target="_blank" class="social-icon"><i
+                                class="fab fa-github"></i></a>
+                        <a href="https://www.linkedin.com/in/vinay-bethala" target="_blank" class="social-icon"><i
+                                class="fab fa-linkedin"></i></a>
+                        <a href="mailto:contact@bethalavinay.com" class="social-icon"><i
+                                class="fas fa-envelope"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" aria-label="Back to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Bethala Vinay. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
