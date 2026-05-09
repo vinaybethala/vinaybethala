@@ -33,31 +33,17 @@
 
 ---
 
-<!-- ABOUT ME — CODE BLOCK STYLE -->
-## 👨💻 About Me
+## 👨‍💻 About Me
 
-```python
-class VinayBethala:
-    def __init__(self):
-        self.name        = "Bethala Vinay"
-        self.role        = ["AI Engineer", "Backend Developer", 
-                            "Full-Stack Builder"]
-        self.education   = "B.Tech CS (AI & ML) | JNTUH | CGPA: 9.6"
-        self.location    = "Hyderabad, Telangana, India 📍"
-        self.languages   = ["Python", "Java", "JavaScript", "SQL", "C"]
-        self.stack       = ["FastAPI", "React", "PostgreSQL", 
-                            "NLP", "LLMs", "REST APIs"]
-        self.internships = ["Infosys Springboard (AI Intern)",
-                            "Swecha Vishwam.AI (Tech Lead)"]
-        self.achievement = "🏆 National Hackathon Winner — 2nd Prize"
-        self.available   = True  # Open to opportunities!
+I am a passionate **AI Engineer** and **Backend Developer** focused on building intelligent, scalable systems. Currently pursuing B.Tech in CS (AI & ML) at JNTUH with a **CGPA of 9.6**.
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great.")
+- 🎓 **Education**: B.Tech CS (AI & ML) | JNTUH | **CGPA: 9.6**
+- 📍 **Location**: Hyderabad, Telangana, India 📍
+- 🏆 **Achievement**: National Hackathon Winner — 2nd Prize
+- 💼 **Internships**: Infosys Springboard (AI) | Swecha Vishwam.AI (Tech Lead)
+- 🚀 **Availability**: Open to Internships & Full-Time Roles!
 
-me = VinayBethala()
-me.say_hi()
-```
+*"I don't wait to be ready — I build until I am."*
 
 <br/>
 
