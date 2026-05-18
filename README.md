@@ -1,288 +1,150 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2342,100:00BFFF&height=200&section=header&text=Bethala%20Vinay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=17&descColor=90E0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:0D1117&height=220&section=header&text=Bethala%20Vinay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00BFFF" width="100%"/>
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+AI-Powered+Backend+Systems+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+React+%7C+LLMs;National+Hackathon+Winner+%F0%9F%8F%86+%7C+CGPA+9.6;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+AI-Powered+Backend+Systems+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+React+%7C+LLMs;National+Hackathon+Winner+%F0%9F%8F%86+%7C+CGPA+9.6;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-bethala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://vinaybethalaportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-bethala)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybethala9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinaybethalaportfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaybethala)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaybethala&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vinaybethala?style=for-the-badge&color=00BFFF&labelColor=0D1117&logo=github)](https://github.com/vinaybethala?tab=followers)
 
 </div>
 
 <br/>
-
----
 
 ## 👨‍💻 About Me
 
-I am a passionate **AI Engineer** and **Backend Developer** focused on building intelligent, scalable systems. Currently pursuing B.Tech in CS (AI & ML) at JNTUH with a **CGPA of 9.6**.
+I am a passionate **AI Engineer** and **Backend Developer** focused on building intelligent, scalable systems. I thrive on translating complex problems into elegant, high-performance software. Currently pursuing a B.Tech in CS (AI & ML) at JNTUH with a **CGPA of 9.6**.
 
-- 🎓 **Education**: B.Tech CS (AI & ML) | JNTUH | **CGPA: 9.6**
-- 📍 **Location**: Hyderabad, Telangana, India 📍
-- 🏆 **Achievement**: National Hackathon Winner — 2nd Prize
-- 💼 **Internships**: Infosys Springboard (AI) | Swecha Vishwam.AI (Tech Lead)
-- 🚀 **Availability**: Open to Internships & Full-Time Roles!
-
-*"I don't wait to be ready — I build until I am."*
+- 🎯 **What I Do**: Design robust REST APIs, architect scalable databases, and integrate GenAI capabilities into modern platforms.
+- 💼 **Experience**: Tech Lead Intern at Swecha (Vishwam.AI) | AI Virtual Intern at Infosys Springboard.
+- 🏆 **Track Record**: 2nd Prize Winner at National Level Hackathon.
+- 🚀 **Mission**: "I don't wait to be ready — I build until I am."
 
 <br/>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
-
-<br/>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 MentorLog
-**GenAI-Powered Academic Operations Platform**
-
-Full-stack platform for coaching institutes to track 
-sessions, attendance, and student performance — with 
-GenAI-generated insights and automated reports.
-
-**Stack:**
-`Python` `FastAPI` `PostgreSQL` `GenAI APIs` `REST`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaybethala/mentorlog)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 EduEarn
-**Learn-to-Earn Education Platform**
-
-Gamified full-stack education platform combining 
-structured learning with skill-based earning.
-**🥈 2nd Prize — National Level Hackathon**
-
-**Stack:**
-`React` `JavaScript` `SQL` `REST APIs` `Git`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaybethala/eduearn-learning-platform)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Fake News Detector
-**AI-Powered News Verification Tool**
-
-NLP pipeline for detecting and verifying fake news — 
-data ingestion, text preprocessing, ML model training, 
-and evaluation. Built during Infosys internship.
-
-**Stack:**
-`Python` `NLP` `Scikit-learn` `NLTK` `Pandas`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaybethala/fakenews_detection_and_verification_tool)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 Achievements & Certifications
-
-🥈 **2nd Prize** — National Level Hackathon
-
-🥈 **2nd Prize** — Tech Triathlon, Osmania University
-
-🥉 **3rd Prize** — Paper Presentation, Malla Reddy
-
-📜 **ServiceNow ITSM** — Now Learning (Apr 2026)
-
-📜 **Python Foundation** — Infosys Springboard
-
-📜 **NPTEL** — The Joy of Computing Using Python
-
-📜 **Agile & Software Engg** — Infosys Springboard
-
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; padding: 16px; border-radius: 8px;">
+      <h3>🤖 AI Virtual Intern @ Infosys Springboard</h3>
+      <p><i>Jan 2026 – Mar 2026</i></p>
+      <ul>
+        <li>Engineered a full-scale Fake News Detection pipeline using Python and NLP.</li>
+        <li>Managed data ingestion, preprocessing, ML model training, and performance evaluation.</li>
+        <li>Operated in an Agile environment, ensuring rapid iteration and deployment.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; padding: 16px; border-radius: 8px;">
+      <h3>👨‍💻 Tech Lead Intern @ Swecha (Vishwam.AI)</h3>
+      <p><i>May 2025 – Jul 2025</i></p>
+      <ul>
+        <li>Led a cross-functional engineering team to build AI-driven solutions.</li>
+        <li>Architected Git workflows and managed sprint planning.</li>
+        <li>Delivered comprehensive stakeholder dashboards, improving project visibility.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## 🚀 Featured Case Studies
 
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=vinaybethala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" 
-  height="180" 
-  alt="Vinay's GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybethala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff" 
-  height="180" 
-  alt="Top Languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=vinaybethala&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" 
-  alt="GitHub Streak"
-  width="60%"
-/>
-
-</div>
-
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vinaybethala&theme=tokyo-night&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" 
-  width="95%" 
-  alt="Contribution Graph"
-/>
-
-</div>
-
-<br/>
-
----
-
-<!-- EXPERIENCE -->
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td>
-
-🤖 **AI Virtual Intern**
-Infosys Springboard
-`Jan 2026 – Mar 2026`
-
-Built Fake News Detection Tool using Python & NLP.
-Followed Agile methodology. Delivered ML pipeline
-from data ingestion to model evaluation.
-
-</td>
-<td>
-
-👨💻 **Tech Lead Intern**
-Swecha — Vishwam.AI Initiative
-`May 2025 – Jul 2025`
-
-Led engineering team to build AI-based solutions.
-Managed Git workflows, sprint planning, and 
-produced stakeholder dashboards.
-
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; padding: 16px; border-radius: 8px;">
+      <h3>🎓 <a href="https://github.com/vinaybethala/mentorlog">MentorLog</a></h3>
+      <p><b>GenAI-Powered Academic Operations Platform</b></p>
+      <p>A full-stack platform for coaching institutes to track sessions, attendance, and student performance, augmented with GenAI-generated insights and automated reporting.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>GenAI APIs</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; padding: 16px; border-radius: 8px;">
+      <h3>🏆 <a href="https://github.com/vinaybethala/eduearn-learning-platform">EduEarn</a></h3>
+      <p><b>Learn-to-Earn Education Platform (National Hackathon Winner)</b></p>
+      <p>A gamified full-stack education platform combining structured learning with skill-based earning mechanisms. Secured 2nd Prize at the National Level.</p>
+      <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>REST APIs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; padding: 16px; border-radius: 8px;">
+      <h3>🔍 <a href="https://github.com/vinaybethala/fakenews_detection_and_verification_tool">Fake News Detector</a></h3>
+      <p><b>AI-Powered News Verification Pipeline</b></p>
+      <p>End-to-end NLP pipeline for detecting and verifying fake news. Incorporates advanced text preprocessing and machine learning model evaluation.</p>
+      <p><code>Python</code> <code>Scikit-learn</code> <code>NLTK</code> <code>Pandas</code></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; padding: 16px; border-radius: 8px;">
+      <h3>📈 <a href="https://github.com/vinaybethala">ApplyZen</a></h3>
+      <p><b>AI-Assisted Job Application Platform</b></p>
+      <p>A SaaS MVP with OAuth authentication, resume-job matching, and AI-powered job summarization. Demonstrates production-style architecture.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Prisma</code> <code>OpenAI API</code></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
 ---
 
-<!-- EDUCATION -->
-## 🎓 Education
+## 🛠️ Technical Arsenal
 
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech — CS & Engineering (AI & ML) | St. Peter's Engineering College, JNTUH | 2023–2027 | **CGPA: 9.6** |
-| Intermediate — Class XII (MPC) | Sri Gayatri Junior College, Armoor | 2021–2023 | **97.1%** |
-| SSC — Class X | Sri Narayana High School, Bheemgal | 2020–2021 | **GPA: 10.0** |
+<div align="center">
+
+| Core | Backend & Database | Frontend | AI/ML | DevOps & Tools |
+|:---:|:---:|:---:|:---:|:---:|
+| Python | FastAPI | React | Scikit-learn | Git & GitHub |
+| Java | PostgreSQL | TypeScript | Pandas & NumPy | Docker |
+| JavaScript | REST APIs | TailwindCSS | HuggingFace | Postman |
+| C | JWT Auth | HTML5/CSS3 | NLTK | VS Code |
+
+</div>
 
 <br/>
 
 ---
 
-<!-- CONNECT -->
-## 📫 Let's Connect
+## 📊 Analytics & Impact
 
 <div align="center">
 
-**Open to Internships · Freelance · Full-Time Roles**
+<img src="https://github-readme-stats.vercel.app/api?username=vinaybethala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" height="180" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybethala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff" height="180" alt="Top Languages"/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-bethala)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaybethala9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinaybethalaportfolio.vercel.app/)
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=vinaybethala&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" width="60%"/>
 
-*"I don't wait to be ready — I build until I am."*
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaybethala&theme=tokyo-night&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
-<!-- FOOTER BANNER -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A2342,100:0D1117&height=120&section=footer" 
-  width="100%"
-/>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A2342,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>

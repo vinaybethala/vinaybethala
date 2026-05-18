@@ -3,30 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vinay Bethala | Software Engineer</title>
-    <meta name="description" content="Portfolio of Vinay Bethala, Software Engineer specializing in backend, APIs, and database systems.">
+    <title>Vinay Bethala | AI Engineer & Backend Developer</title>
+    <meta name="description" content="Portfolio of Vinay Bethala, AI Engineer & Backend Developer specializing in scalable systems, LLMs, and robust APIs.">
+    
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+<body class="dark-theme">
+    
+    <!-- Background Effects -->
+    <div class="bg-gradient-1"></div>
+    <div class="bg-gradient-2"></div>
+    <div class="grid-overlay"></div>
+
     <nav class="navbar" id="navbar">
         <div class="nav-container">
-            <a href="#home" class="logo">BV.</a>
+            <a href="#home" class="logo">Vinay<span>.AI</span></a>
             <button class="mobile-menu-btn" id="mobile-btn" aria-label="Toggle menu">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <line x1="3" y1="12" x2="21" y2="12"></line>
-                    <line x1="3" y1="6" x2="21" y2="6"></line>
-                    <line x1="3" y1="18" x2="21" y2="18"></line>
-                </svg>
+                <i class="bi bi-list"></i>
             </button>
             <ul class="nav-links" id="nav-links">
                 <li><a href="#home" class="nav-link active">Home</a></li>
                 <li><a href="#about" class="nav-link">About</a></li>
-                <li><a href="#skills" class="nav-link">Skills</a></li>
-                <li><a href="#projects" class="nav-link">Projects</a></li>
                 <li><a href="#experience" class="nav-link">Experience</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
                 <li><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
         </div>
@@ -36,138 +43,198 @@
         <section id="home" class="hero section">
             <div class="container grid-2 fade-in">
                 <div class="hero-content">
-                    <p class="hero-top-text">2nd Prize — National Hackathon &bull; Tech Lead Experience &bull; 3+ Systems Built</p>
-                    <h1 class="hero-heading">Hello</h1>
-                    <p class="hero-subtext">&mdash; It's Vinay Bethala</p>
-                    <div class="hero-details">
-                        <p>Computer Science (AI & ML), CGPA 9.6</p>
-                        <p>Backend &bull; APIs &bull; Database Systems</p>
+                    <div class="badge-pill">
+                        <span class="pulse-dot"></span> Open to Full-Time & Internships
+                    </div>
+                    <h1 class="hero-heading">Building Systems That <span class="text-gradient">Scale.</span></h1>
+                    <p class="hero-subtext">AI Engineer &amp; Backend Developer</p>
+                    <p class="hero-desc">
+                        Translating complex business requirements into high-performance, intelligent software architectures. Specialized in Python, React, and GenAI integrations.
+                    </p>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-num">9.6</span>
+                            <span class="stat-label">CGPA</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-num">#2</span>
+                            <span class="stat-label">Nat. Hackathon</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-num">2+</span>
+                            <span class="stat-label">Years Exp.</span>
+                        </div>
                     </div>
                     <div class="hero-buttons">
-                        <a href="#projects" class="btn btn-primary">View Case Studies</a>
-                        <a href="Vinay-Bethala-Resume.pdf" class="btn btn-outline" download>Download Resume</a>
+                        <a href="#projects" class="btn btn-primary">
+                            View Case Studies <i class="bi bi-arrow-right"></i>
+                        </a>
+                        <a href="https://github.com/vinaybethala" target="_blank" class="btn btn-outline">
+                            <i class="bi bi-github"></i> GitHub Profile
+                        </a>
                     </div>
                 </div>
-                <div class="hero-image-container">
-                    <div class="hero-image-wrapper">
-                        <!-- We use a placeholder image that uses CSS to make it black and white -->
-                        <img src="assets/profile.jpg" alt="Vinay Bethala" class="hero-image" onerror="this.src='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'">
-                        <div class="image-mask"></div>
+                <div class="hero-visual">
+                    <div class="glass-card profile-card">
+                        <div class="profile-img-wrap">
+                            <img src="assets/profile.jpg" alt="Vinay Bethala" onerror="this.src='https://images.unsplash.com/photo-1531297172867-4f50f1520612?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'" class="profile-img">
+                            <div class="img-overlay"></div>
+                        </div>
+                        <div class="profile-info">
+                            <h3>Vinay Bethala</h3>
+                            <p>Tech Lead @ Swecha</p>
+                            <div class="tech-stack-mini">
+                                <span><i class="bi bi-filetype-py"></i></span>
+                                <span><i class="bi bi-database"></i></span>
+                                <span><i class="bi bi-code-slash"></i></span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="about" class="section section-alt">
+        <section id="about" class="section">
             <div class="container fade-in">
-                <p class="about-text">
-                    I am a software engineering student with a strong foundation in <span>Backend Systems</span>, <span>APIs</span>, and <span>Database Architecture</span>. I focus on writing clean, scalable code and building robust end-to-end applications that solve real-world problems.
-                </p>
-            </div>
-        </section>
-
-        <section id="skills" class="section">
-            <div class="container">
-                <h2 class="section-title fade-in">Skills</h2>
-                <div class="skills-grid fade-in">
-                    <div class="skill-card">
-                        <h3 class="skill-category">Programming</h3>
-                        <p class="skill-list">Java<br>Python (basic)<br>C<br>JavaScript</p>
+                <h2 class="section-title">Technical <span class="text-gradient">Arsenal</span></h2>
+                <div class="skills-grid">
+                    <div class="glass-card skill-card">
+                        <i class="bi bi-hdd-network skill-icon text-gradient"></i>
+                        <h3>Backend & APIs</h3>
+                        <div class="skill-tags">
+                            <span>Python</span><span>FastAPI</span><span>Node.js</span><span>REST</span><span>JWT</span>
+                        </div>
                     </div>
-                    <div class="skill-card">
-                        <h3 class="skill-category">Web</h3>
-                        <p class="skill-list">React<br>HTML<br>CSS<br>REST APIs</p>
+                    <div class="glass-card skill-card">
+                        <i class="bi bi-cpu skill-icon text-gradient"></i>
+                        <h3>AI & ML</h3>
+                        <div class="skill-tags">
+                            <span>Scikit-learn</span><span>Pandas</span><span>NLP</span><span>GenAI APIs</span>
+                        </div>
                     </div>
-                    <div class="skill-card">
-                        <h3 class="skill-category">Backend</h3>
-                        <p class="skill-list">FastAPI</p>
+                    <div class="glass-card skill-card">
+                        <i class="bi bi-database-gear skill-icon text-gradient"></i>
+                        <h3>Databases & Cloud</h3>
+                        <div class="skill-tags">
+                            <span>PostgreSQL</span><span>SQL</span><span>Prisma</span><span>Docker</span>
+                        </div>
                     </div>
-                    <div class="skill-card">
-                        <h3 class="skill-category">Database</h3>
-                        <p class="skill-list">SQL<br>PostgreSQL</p>
-                    </div>
-                    <div class="skill-card">
-                        <h3 class="skill-category">Concepts</h3>
-                        <p class="skill-list">OOP<br>DSA<br>SDLC<br>Agile</p>
-                    </div>
-                    <div class="skill-card">
-                        <h3 class="skill-category">Tools</h3>
-                        <p class="skill-list">Git<br>GitHub</p>
+                    <div class="glass-card skill-card">
+                        <i class="bi bi-browser-chrome skill-icon text-gradient"></i>
+                        <h3>Frontend</h3>
+                        <div class="skill-tags">
+                            <span>React</span><span>TypeScript</span><span>Tailwind</span><span>HTML/CSS</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="projects" class="section section-alt">
-            <div class="container">
-                <h2 class="section-title fade-in">Case Studies</h2>
-                <div class="projects-grid fade-in">
-                    <div class="project-card">
-                        <h3 class="project-title">Fake News Detection Tool</h3>
-                        <p class="project-desc">An end-to-end pipeline and system designed to identify and verify the authenticity of news articles.</p>
-                        <p class="project-tech">Python, Machine Learning</p>
-                        <a href="https://github.com/vinaybethala/fakenews_detection_and_verification_tool" target="_blank" rel="noopener noreferrer" class="project-link">
-                            View on GitHub
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                        </a>
+        <section id="experience" class="section relative">
+            <div class="container fade-in">
+                <h2 class="section-title">Professional <span class="text-gradient">Journey</span></h2>
+                <div class="timeline">
+                    <div class="timeline-item glass-card">
+                        <div class="timeline-dot"></div>
+                        <span class="timeline-date">Jan 2026 - Mar 2026</span>
+                        <h3>AI Virtual Intern</h3>
+                        <h4>Infosys Springboard</h4>
+                        <p>Architected an end-to-end NLP pipeline for fake news detection. Managed data ingestion, ML model training, and performance evaluation within an Agile framework.</p>
                     </div>
-                    <div class="project-card">
+                    <div class="timeline-item glass-card">
+                        <div class="timeline-dot"></div>
+                        <span class="timeline-date">May 2025 - Jul 2025</span>
+                        <h3>Tech Lead Intern</h3>
+                        <h4>Swecha (Vishwam.AI)</h4>
+                        <p>Led a cross-functional engineering team building AI-driven solutions. Streamlined Git workflows and sprint planning, resulting in highly effective stakeholder deliverables.</p>
+                    </div>
+                    <div class="timeline-item glass-card">
+                        <div class="timeline-dot"></div>
+                        <span class="timeline-date">2023 - 2027</span>
+                        <h3>B.Tech CS (AI & ML)</h3>
+                        <h4>JNTUH</h4>
+                        <p>Maintaining a 9.6 CGPA. Actively participating in national hackathons and technical symposiums.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <div class="container fade-in">
+                <h2 class="section-title">Featured <span class="text-gradient">Case Studies</span></h2>
+                <div class="projects-grid">
+                    <div class="glass-card project-card">
+                        <div class="project-header">
+                            <i class="bi bi-journal-code text-gradient"></i>
+                            <div class="project-links">
+                                <a href="https://github.com/vinaybethala/mentorlog" target="_blank"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
                         <h3 class="project-title">MentorLog</h3>
-                        <p class="project-desc">A platform facilitating mentorship logging and tracking for educational and professional growth.</p>
-                        <p class="project-tech">React, API, Database</p>
-                        <a href="https://github.com/vinaybethala/mentorlog" target="_blank" rel="noopener noreferrer" class="project-link">
-                            View on GitHub
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                        </a>
+                        <p class="project-desc">A full-stack GenAI-powered platform for coaching institutes to track sessions, attendance, and generate student performance insights.</p>
+                        <div class="skill-tags small">
+                            <span>Python</span><span>FastAPI</span><span>PostgreSQL</span><span>GenAI</span>
+                        </div>
                     </div>
-                    <div class="project-card">
-                        <h3 class="project-title">EduEarn</h3>
-                        <p class="project-desc">A comprehensive learning platform offering educational resources and earning opportunities.</p>
-                        <p class="project-tech">React, Database Architecture</p>
-                        <a href="https://github.com/vinaybethala/eduearn-learning-platform" target="_blank" rel="noopener noreferrer" class="project-link">
-                            View on GitHub
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                        </a>
+                    
+                    <div class="glass-card project-card">
+                        <div class="project-header">
+                            <i class="bi bi-trophy text-gradient"></i>
+                            <div class="project-links">
+                                <a href="https://github.com/vinaybethala/eduearn-learning-platform" target="_blank"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
+                        <h3 class="project-title">EduEarn <span class="highlight-badge">2nd Prize</span></h3>
+                        <p class="project-desc">National Hackathon winning Learn-to-Earn education platform combining structured learning with skill-based earning mechanisms.</p>
+                        <div class="skill-tags small">
+                            <span>React</span><span>SQL</span><span>JavaScript</span>
+                        </div>
+                    </div>
+
+                    <div class="glass-card project-card">
+                        <div class="project-header">
+                            <i class="bi bi-shield-check text-gradient"></i>
+                            <div class="project-links">
+                                <a href="https://github.com/vinaybethala/fakenews_detection_and_verification_tool" target="_blank"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
+                        <h3 class="project-title">Fake News Detector</h3>
+                        <p class="project-desc">Comprehensive NLP pipeline to identify and verify the authenticity of news articles using machine learning and text preprocessing.</p>
+                        <div class="skill-tags small">
+                            <span>Python</span><span>NLP</span><span>Scikit-learn</span>
+                        </div>
+                    </div>
+                    
+                    <div class="glass-card project-card">
+                        <div class="project-header">
+                            <i class="bi bi-rocket-takeoff text-gradient"></i>
+                            <div class="project-links">
+                                <a href="https://github.com/vinaybethala" target="_blank"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
+                        <h3 class="project-title">ApplyZen SaaS</h3>
+                        <p class="project-desc">AI-assisted job application MVP featuring OAuth, resume-job matching, and LLM-powered job summarization.</p>
+                        <div class="skill-tags small">
+                            <span>React</span><span>TypeScript</span><span>Prisma</span><span>OpenAI</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="experience" class="section">
-            <div class="container">
-                <h2 class="section-title fade-in">Experience</h2>
-                <div class="experience-list fade-in">
-                    <div class="exp-item">
-                        <h3 class="exp-company">Infosys Springboard</h3>
-                        <p class="exp-role">Intern / Developer</p>
-                        <ul class="exp-desc">
-                            <li>Built a fake news detection system using Python</li>
-                            <li>Developed an end-to-end pipeline</li>
-                            <li>Followed Agile workflow for project management</li>
-                        </ul>
-                    </div>
-                    <div class="exp-item">
-                        <h3 class="exp-company">Swecha</h3>
-                        <p class="exp-role">Tech Lead</p>
-                        <ul class="exp-desc">
-                            <li>Led the technical team for project development</li>
-                            <li>Managed team collaboration and tasks</li>
-                            <li>Maintained robust Git workflow</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="contact" class="section section-alt">
-            <div class="container">
-                <div class="contact-container fade-in">
-                    <h2 class="section-title">Let's Connect</h2>
-                    <p class="contact-text">Currently open for new opportunities. Feel free to reach out if you're looking for a dedicated software engineer.</p>
-                    <div class="contact-links">
-                        <a href="mailto:vinaybethala9@gmail.com" class="contact-link">vinaybethala9@gmail.com</a>
-                        <a href="https://github.com/vinaybethala" target="_blank" rel="noopener noreferrer" class="contact-link">GitHub</a>
-                        <a href="https://www.linkedin.com/in/vinay-bethala/" target="_blank" rel="noopener noreferrer" class="contact-link">LinkedIn</a>
+        <section id="contact" class="section">
+            <div class="container fade-in">
+                <div class="glass-card contact-card text-center">
+                    <h2 class="section-title" style="margin-bottom: 20px;">Let's Build The <span class="text-gradient">Future.</span></h2>
+                    <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto 40px auto; font-size: 1.1rem;">
+                        I am currently open to full-time roles, internships, and freelance projects. Whether you have a question or just want to say hi, my inbox is always open!
+                    </p>
+                    <a href="mailto:vinaybethala9@gmail.com" class="btn btn-primary" style="padding: 16px 40px; font-size: 1.1rem;">
+                        <i class="bi bi-envelope-fill"></i> Say Hello
+                    </a>
+                    <div class="social-links">
+                        <a href="https://github.com/vinaybethala" target="_blank"><i class="bi bi-github"></i></a>
+                        <a href="https://www.linkedin.com/in/vinay-bethala/" target="_blank"><i class="bi bi-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -176,7 +243,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; <span id="year"></span> Vinay Bethala. All rights reserved.</p>
+            <p>&copy; <span id="year"></span> Vinay Bethala. All rights reserved. Built with passion and code.</p>
         </div>
     </footer>
 
